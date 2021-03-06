@@ -8,3 +8,5 @@ This library will help you to generate barcodes (only Code39 and Code128 are sup
 
 ### You can always buy me a coffee!
 [Pay with Blockchain![Bitcoin](https://user-images.githubusercontent.com/20144149/109700304-a2bac680-7ba2-11eb-954e-edffd0364e1b.png)](https://blockchain.com/btc/payment_request?address=1HEUbFJGsn666rfsEuTVxdPAQ6iR5A8SUS&amount=0.00002096&message=Donation)
+
+<a href="https://coindrop.to/silentdev" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me"></img></a>
